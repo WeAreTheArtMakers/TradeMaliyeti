@@ -1,4 +1,6 @@
-![modCalc Logo](https://github.com/WeAreTheArtMakers/TradeMaliyeti/raw/main/modcalc.png)
+<p align="center">
+  <img src="https://github.com/WeAreTheArtMakers/TradeMaliyeti/raw/main/modcalc.png" alt="modCalc Logo" width="200"/>
+</p>
 
 # modCalc – İşlem Fiyat Hesaplayıcı
 
