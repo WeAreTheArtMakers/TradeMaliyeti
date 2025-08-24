@@ -1,3 +1,5 @@
+![modCalc Logo](https://github.com/WeAreTheArtMakers/TradeMaliyeti/raw/main/modcalc.png)
+
 # modCalc – İşlem Fiyat Hesaplayıcı
 
 Ağırlıklı Ortalama Fiyat Hesaplayıcı (GUI)  
@@ -30,28 +32,32 @@ Programı çalıştırın:
 
 python3 modcalc.py
 
+## 💻 Kullanım
 
-💻 Kullanım
-GUI Modu
+### 🖥️ GUI Modu
+- `Fiyat` ve `Miktar` girin → **Ekle (Enter)**
+- Her satır eklendiğinde **Maliyet** otomatik hesaplanır
+- Alt bölümde anlık olarak:
+  - **Toplam Maliyet**
+  - **Toplam Miktar**
+  - **Ortalama Fiyat** gösterilir
 
-Fiyat ve Miktar girin → Ekle (Enter)
+---
 
-Tabloya eklenen her satır için Maliyet otomatik hesaplanır
+### ⌨️ CLI Modu
+GUI açılamazsa (ör. SSH bağlantısı gibi durumlarda) otomatik olarak CLI moduna geçer:
 
-Alt kısımda Toplam Maliyet, Toplam Miktar, Ortalama Fiyat gösterilir
 
-CLI Modu
-
-Eğer GUI açılamazsa (ör. SSH bağlantısı) otomatik olarak CLI moduna geçer:
-
-> 4870 90
-> 4830 50
+örnek fiyat ve miktr bilgileri 
+-> 4870 90 
+-> 4830 50
 
 Toplam Maliyet: 746700.000000
 Toplam Miktar:  140.000000
 Ortalama Fiyat: 5333.571429
 
-📁 CSV Dışa Aktarma
+
+## 📁 CSV Dışa Aktarma
 
 Tablodaki verileri CSV dosyasına aktarabilirsiniz.
 Çıktı dosyası örneği:
@@ -64,7 +70,8 @@ Toplam Maliyet,679800
 Toplam Miktar,140
 Ortalama Fiyat,4855.714286
 
-⌨️ Kısayollar
+
+## ⌨️ Kısayollar
 
 Enter / Numpad Enter → Yeni satır ekle
 
