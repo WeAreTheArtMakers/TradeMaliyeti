@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/WeAreTheArtMakers/TradeMaliyeti/raw/main/modcalc.png" alt="modCalc Logo" width="200"/>
 </p>
 
