@@ -1,7 +1,6 @@
 <p align="left">
-  <img src="https://github.com/WeAreTheArtMakers/TradeMaliyeti/raw/main/modcalc.png" alt="modCalc Logo" width="200"/>
+  <img src="https://github.com/WeAreTheArtMakers/TradeMaliyeti/raw/main/modcalc.png" alt="modCalc Logo" width="250"/>
 </p>
-
 # modCalc – İşlem Fiyat Hesaplayıcı
 
 Ağırlıklı Ortalama Fiyat Hesaplayıcı (GUI)  
